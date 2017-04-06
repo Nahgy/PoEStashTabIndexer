@@ -1,0 +1,19 @@
+{
+  "name": "poe-stash-tab-indexer",
+  "version": "0.0.1",
+  "description": "A simple tool to retrieve public stash tab information and store it in a database.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nahgy/PoEStashTabIndexer.git"
+  },
+  "author": "Nahgy",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Nahgy/PoEStashTabIndexer/issues"
+  },
+  "homepage": "https://github.com/Nahgy/PoEStashTabIndexer#readme"
+}
